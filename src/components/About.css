@@ -1,0 +1,154 @@
+#about1 h2
+{
+color: #58a6ff;
+margin-top: 50px;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+
+
+}
+#about1 p
+{
+    color: white;
+    
+    font-family: "poppins", sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    line-height: 1.6;
+    
+}
+section
+{
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+#technical h2
+{
+color: #58a6ff;
+
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+
+}
+
+ul li 
+{
+    color: white;
+    list-style: none;
+    padding: 6px 0;
+    margin-left: -2.3rem;
+    font-size: 1rem;
+
+}
+ 
+
+#project h2
+{
+    
+color: #58a6ff;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+}
+#project1
+{
+     background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+#project1:hover
+{
+    border-color:#58a6ff;
+    transform: translatey(-3px);
+}
+a{
+      color: #58a6ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+#education h2
+{
+color: #58a6ff;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+}    
+#contact h2
+{
+    color: #58a6ff;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+}
+
+footer {
+      background: #161b22;
+      text-align: center;
+      padding: 10px 0;
+      border-top: 1px solid #30363d;
+      color: #8b949e;
+    }
+
+#course h2
+
+{
+color: #58a6ff;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+}
+#course h5
+{
+    color: white;
+    font-weight: 200;
+    font-size: 1.5rem;
+    
+}
+#course a
+{
+    text-decoration: none;
+}
+#project1 a
+{
+    text-decoration: none;
+}
+#course a:hover
+{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#resume h2
+{
+    
+color: #58a6ff;
+font-family: "poppins", sans-serif;
+text-decoration: underline;
+text-underline-offset: 8px;
+text-decoration-color: #30363d;
+}
+@media (max-width:600px)
+{
+    #header img
+    {
+        margin-top: 0px;
+        margin-left:0px ;
+    }
+}

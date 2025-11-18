@@ -1,0 +1,48 @@
+#header
+{
+    background: #161b22;
+    line-height: 1.6;
+    width: 100vw;
+    z-index: 999;
+    margin-top: -21px;
+  
+    
+}
+#header h1
+{
+color: #58a6ff;
+font-size: 2rem;
+  font-family: "poppins", sans-serif;
+  padding: 50px;
+
+  
+
+}
+#header h2
+{
+    color: whitesmoke;
+    font-size: 1.1rem;
+    font-family: "poppins", sans-serif;
+    font-weight: 100;
+    margin-top: -45px;
+    
+}
+
+#header img
+{
+  
+ width: 8rem;
+      height: 8rem;
+      border-radius: 50%;
+      border: 3px solid #58a6ff;
+       margin-top: -120px;
+      transition: transform 0.3s ease;
+      margin-left: 28rem;
+      
+
+}
+#header img:hover {
+      transform: scale(1.05);
+    }
+
+
