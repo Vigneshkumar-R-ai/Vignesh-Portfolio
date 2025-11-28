@@ -72,7 +72,7 @@ const About = () => {
           </section>
            <section id='resume'>
     <h2>My Resume</h2>
-     <a type="button" class="btn btn-primary" href="https://drive.google.com/file/d/1ok5pQaRf9PEVt3jRfw18Rj9FwSVAG6Y1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+     <a type="button" class="btn btn-primary" href="https://drive.google.com/file/d/1DTmGdi6TjF8ZbjHoOhzbqoIKfut6cen4/view" target="_blank" rel="noopener noreferrer">Resume</a>
 
   </section>
  <section id="contact">

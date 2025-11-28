@@ -31,9 +31,9 @@ font-size: 2rem;
 #header img
 {
   
- width: 7.5rem;
+ width: 7rem;
       height: 7.5rem;
-      border-radius: 50%;
+      border-radius: 10%;
       border: 1px solid #58a6ff;
        margin-top: -110px;
       transition: transform 0.3s ease;

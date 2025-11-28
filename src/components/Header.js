@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import Vignesh from '../assets/vigneshphoto.jpg'
+import Vignesh from '../assets/vignesh11.jpg'
 const Header = () => {
   return (
     <>
