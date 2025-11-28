@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vignesh-Portfolio/static/css/main.94aa51ce.css",
-    "main.js": "/Vignesh-Portfolio/static/js/main.9782cd21.js",
+    "main.css": "/Vignesh-Portfolio/static/css/main.c9a0fbba.css",
+    "main.js": "/Vignesh-Portfolio/static/js/main.6b0065a8.js",
     "static/js/453.bd3f315a.chunk.js": "/Vignesh-Portfolio/static/js/453.bd3f315a.chunk.js",
-    "static/media/vignesh.jpg": "/Vignesh-Portfolio/static/media/vignesh.f04b83a7049ccdb25945.jpg",
+    "static/media/vigneshphoto.jpg": "/Vignesh-Portfolio/static/media/vigneshphoto.0593cfeadacfa57d489c.jpg",
     "index.html": "/Vignesh-Portfolio/index.html",
-    "main.94aa51ce.css.map": "/Vignesh-Portfolio/static/css/main.94aa51ce.css.map",
-    "main.9782cd21.js.map": "/Vignesh-Portfolio/static/js/main.9782cd21.js.map",
+    "main.c9a0fbba.css.map": "/Vignesh-Portfolio/static/css/main.c9a0fbba.css.map",
+    "main.6b0065a8.js.map": "/Vignesh-Portfolio/static/js/main.6b0065a8.js.map",
     "453.bd3f315a.chunk.js.map": "/Vignesh-Portfolio/static/js/453.bd3f315a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94aa51ce.css",
-    "static/js/main.9782cd21.js"
+    "static/css/main.c9a0fbba.css",
+    "static/js/main.6b0065a8.js"
   ]
 }
