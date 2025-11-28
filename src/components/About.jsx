@@ -7,7 +7,7 @@ const About = () => {
     <section id='about1'>
      <h2>About Me</h2>
      
-     <p>Hi! I’m Vignesh Kumar, a fresher MERN Stack Developer passionate about creating dynamic and user-friendly web applications. I’ve built several personal projects using MongoDB, Express.js, React, and Node.js and love learning new technologies every day. My goal is to start my career as a developer and grow through real-world projects.</p>
+     <p>I'm Vignesh Kumar, a passionate MERN Stack Developer dedicated to creating dynamic and user-friendly web applications. I've built several personal projects, focusing on performance and scalability, and am eager to apply my full-stack skills to real-world challenges.</p>
      
     </section>
 
@@ -52,7 +52,7 @@ const About = () => {
       <p>A comprehensive website created for shopping Products like Fruits</p>
       <ul>
         <li><strong>Stack:</strong> React, Bootstrap, Node, Express, Stripe, GitHub</li>
-        <li><a target='_blank' rel='noopener noreferrer' href="https://github.com/Vigneshkumar-R-ai/shoppingcartlive">GitHub Repo</a> | <a target='_blank'rel='noopener noreferrer' href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">Live Demo</a></li>
+        <li><a target='_blank' rel='noopener noreferrer' href="https://github.com/Vigneshkumar-R-ai/shoppingcartlive">GitHub Repo</a> | <a target='_blank'rel='noopener noreferrer' href="https://vigneshkumar-r-ai.github.io/shoppingcartlive/">Live Demo</a></li>
 
       </ul>
             </div>  
@@ -62,7 +62,7 @@ const About = () => {
             <h2>Relevant Course</h2>
             <h5>MERN Stack Developer - Course completion Certificate</h5>
             <h5>Kalvi Institute Karur - October 2025</h5>
-            <a type="button" class="btn btn-primary" href="https://vigneshkumar-r-ai.github.io/shoppingcartlive/" target="_blank" rel="noopener noreferrer">Certificate</a>
+            <a type="button" class="btn btn-primary" href="https://drive.google.com/file/d/1Rfjd2HftcIezGcY_Hj52oJ9rovDYEZjg/view" target="_blank" rel="noopener noreferrer">Certificate</a>
           </section>
 
           <section id='education'>

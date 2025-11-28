@@ -144,6 +144,11 @@ text-decoration: underline;
 text-underline-offset: 8px;
 text-decoration-color: #30363d;
 }
+#resume a:hover
+{
+    text-decoration: none;
+    transform: scale(1.1);
+}
 @media (max-width:600px)
 {
     #header img
