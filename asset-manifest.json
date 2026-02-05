@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Vignesh-Portfolio/static/css/main.5cf5efab.css",
-    "main.js": "/Vignesh-Portfolio/static/js/main.6666010a.js",
+    "main.js": "/Vignesh-Portfolio/static/js/main.146f5d12.js",
     "static/js/453.bd3f315a.chunk.js": "/Vignesh-Portfolio/static/js/453.bd3f315a.chunk.js",
     "static/media/vignesh11.jpg": "/Vignesh-Portfolio/static/media/vignesh11.8550f46eb36f660b651b.jpg",
     "index.html": "/Vignesh-Portfolio/index.html",
     "main.5cf5efab.css.map": "/Vignesh-Portfolio/static/css/main.5cf5efab.css.map",
-    "main.6666010a.js.map": "/Vignesh-Portfolio/static/js/main.6666010a.js.map",
+    "main.146f5d12.js.map": "/Vignesh-Portfolio/static/js/main.146f5d12.js.map",
     "453.bd3f315a.chunk.js.map": "/Vignesh-Portfolio/static/js/453.bd3f315a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cf5efab.css",
-    "static/js/main.6666010a.js"
+    "static/js/main.146f5d12.js"
   ]
 }
